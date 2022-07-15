@@ -1,0 +1,2 @@
+Bilet CFR'2' Tren='Rapid1', Plecare='Fetesti', Sosire='Fetesti', DataPlecare='28.05.2021 16:30', DataSosire='28.05.2021 18:30', tipReducere='Cadre Militare', CNP='5000521134144', clasa=1, pret=140.63
+Bilet CFR'3' Tren='Rapid3', Plecare='Bucuresti Nord', Sosire='Brasov', DataPlecare='28.05.2021 18:30', DataSosire='29.05.2021 02:30', tipReducere='Cadre Militare', CNP='5000521134144', clasa=1, pret=140.63
